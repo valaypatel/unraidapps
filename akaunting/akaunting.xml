@@ -11,8 +11,8 @@
   <Project>https://github.com/akaunting/docker</Project>
   <Overview>Accounting Application created based on https://akaunting.com/&#xD;
 </Overview>
-  <Category>Other:</Category>
-  <WebUI>http://[IP]:[PORT:8080]/</WebUI>
+  <Category>Productivity:</Category>
+  <WebUI>http://[IP]:[PORT:80]/</WebUI>
   <TemplateURL/>
   <Icon>https://avatars.githubusercontent.com/u/26357771?s=200&amp;amp;v=4</Icon>
   <ExtraParams/>
